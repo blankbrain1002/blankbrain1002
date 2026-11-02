@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Deepak! 👋
 
-<!--
-**blankbrain1002/blankbrain1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student interested in software development, problem-solving and building practical applications.
+
+* 🎓 Computer Science Engineering Student
+* 💻 Currently learning Java, Python and Data Structures
+* 🌱 Exploring Operating Systems and Computer Networks
+* 🤖 Interested in Artificial Intelligence
+* 🎯 Working towards becoming a better developer
+
+### 💻 Tech Stack
+
+* Languages: Java, Python, C
+* Core Concepts: OOP, Data Structures, Algorithms
+* Currently Exploring: AI, Git and GitHub
+
+### 🚀 My Goals
+
+* Build meaningful software projects
+* Improve problem-solving skills
+* Contribute to open-source projects
+* Explore software development internships
+
+### 📂 Featured Repositories
+
+* [Java](https://github.com/blankbrain1002/JAVA)
+* [Data Structures](https://github.com/blankbrain1002/Data-Structures)
+* [Python Basics](https://github.com/blankbrain1002/PYTHON-BASIC-CODEZ)
+* [Python Company-Level Programs](https://github.com/blankbrain1002/Python-Company-level-codes)
+
+---
+
+*Learning, building and improving one commit at a time.*
